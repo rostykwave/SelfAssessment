@@ -1,105 +1,105 @@
 ## Architecture
 
 - Application structure
-  - Separation of concerns e
-  - Inversion of Control e
-  - Dependency Injection e
-  - GoF Creational e
-  - GoF Structural e
-  - GoF Behavioral e
-  - GRASP e
-  - SOLID r
-  - CQS k
-  - Modularity e
-  - Subsystems e
-  - Directories e
-  - Leaking abstractions e
-  - Multiparadigm code e
-  - Contract programming k
-  - Platform-agnostic e
-  - Transport-agnostic e
-  - Framework-agnostic e
-  - Code coverage e
-  - Cohesion e
-  - Coupling e
-  - Cyclomatic complexity e
-  - Reliability e
-  - Quality e
-  - Availability e
-  - Flexibility e
-  - Law of Demeter (LoD) h
+  - Separation of concerns: 🙋 explained
+  - Inversion of Control: 🙋 explained
+  - Dependency Injection: 🙋 explained
+  - GoF Creational: 🙋 explained
+  - GoF Structural: 🙋 explained
+  - GoF Behavioral: 🙋 explained
+  - GRASP: 🙋 explained
+  - SOLID: 🔬 researched
+  - CQS: 🎓 known
+  - Modularity: 🙋 explained
+  - Subsystems: 🙋 explained
+  - Directories: 🙋 explained
+  - Leaking abstractions: 🙋 explained
+  - Multiparadigm code: 🙋 explained
+  - Contract programming: 🎓 known
+  - Platform-agnostic: 🙋 explained
+  - Transport-agnostic: 🙋 explained
+  - Framework-agnostic: 🙋 explained
+  - Code coverage: 🙋 explained
+  - Cohesion: 🙋 explained
+  - Coupling: 🙋 explained
+  - Cyclomatic complexity: 🙋 explained
+  - Reliability: 🙋 explained
+  - Quality: 🙋 explained
+  - Availability: 🙋 explained
+  - Flexibility: 🙋 explained
+  - Law of Demeter (LoD): 👂 heard
 - Application architecture
-  - Isolation between layer e
-  - Domain-specific language (DSL) e
-  - System vs applied code e
-  - Multilayer approach e
-  - Hexagonal architecture h
-  - Separation of concerns (SoC) e
-  - Metaprogramming e
-  - Inversion of control (IoC) e
-  - Dependency injection (DI) e
-  - Clean architecture e
-  - Domain-driven design (DDD) e
-  - Pub/sub e
-  - Message brocker e
-  - Agent e
-  - Service locator e
-  - Message Queue (MQ) r
-  - CQRS e
-  - Event sourcing e
-  - E-R data modeling e
-  - Entity-relationship diagram h
-  - IDEF1X h
-  - UML r
-  - Work breakdown structure e
-  - Budget estimation e
-  - Distributed systems e
-  - High-intensive computing e
-  - Load balancing e
-  - Gateways e
-  - On-premises e
-  - IaaS e
-  - PaaS e
-  - SaaS e
-  - FaaS clouds e
-  - Serverless e
-  - Vendor lock-in e
-  - Bus factor e
+  - Isolation between layer: 🙋 explained
+  - Domain-specific language (DSL): 🙋 explained
+  - System vs applied code: 🙋 explained
+  - Multilayer approach: 🙋 explained
+  - Hexagonal architecture: 👂 heard
+  - Separation of concerns (SoC): 🙋 explained
+  - Metaprogramming: 🙋 explained
+  - Inversion of control (IoC): 🙋 explained
+  - Dependency injection (DI): 🙋 explained
+  - Clean architecture: 🙋 explained
+  - Domain-driven design (DDD): 🙋 explained
+  - Pub/sub: 🙋 explained
+  - Message brocker: 🙋 explained
+  - Agent: 🙋 explained
+  - Service locator: 🙋 explained
+  - Message Queue (MQ): 🔬 researched
+  - CQRS: 🙋 explained
+  - Event sourcing: 🙋 explained
+  - E-R data modeling: 🙋 explained
+  - Entity-relationship diagram: 👂 heard
+  - IDEF1X: 👂 heard
+  - UML: 🔬 researched
+  - Work breakdown structure: 🙋 explained
+  - Budget estimation: 🙋 explained
+  - Distributed systems: 🙋 explained
+  - High-intensive computing: 🙋 explained
+  - Load balancing: 🙋 explained
+  - Gateways: 🙋 explained
+  - On-premises: 🙋 explained
+  - IaaS: 🙋 explained
+  - PaaS: 🙋 explained
+  - SaaS: 🙋 explained
+  - FaaS clouds: 🙋 explained
+  - Serverless: 🙋 explained
+  - Vendor lock-in: 🙋 explained
+  - Bus factor: 🙋 explained
 - Solution architecture
-  - A software requirements specification (SRS) e
-  - Solution visions e
-  - Solution capabilities e
-  - System design e
-  - Process modelling e
-  - Data modelling e
-  - Solution components e
-  - Risk assessment e
-  - Non Functional Requirements (NFR) e
-  - Clouds e
-  - BPMN h
-  - Low-code h
-  - No-code h
-  - Metric e
-  - Metric abuse e
-  - ACID e
-  - CAP theorem e
-  - Single source of truth (SSOT) e
+  - A software requirements specification (SRS): 🙋 explained
+  - Solution visions: 🙋 explained
+  - Solution capabilities: 🙋 explained
+  - System design: 🙋 explained
+  - Process modelling: 🙋 explained
+  - Data modelling: 🙋 explained
+  - Solution components: 🙋 explained
+  - Risk assessment: 🙋 explained
+  - Non Functional Requirements (NFR): 🙋 explained
+  - Clouds: 🙋 explained
+  - BPMN: 👂 heard
+  - Low-code: 👂 heard
+  - No-code: 👂 heard
+  - Metric: 🙋 explained
+  - Metric abuse: 🙋 explained
+  - ACID: 🙋 explained
+  - CAP theorem: 🙋 explained
+  - Single source of truth (SSOT): 🙋 explained
 - Enterprise architecture
-  - Understanding business needs r
+  - Understanding business needs: 🔬 researched
   - Enterprise strategyr
-  - Integration with subsystems r
-  - Enterprise vision r
-  - Enterprise capabilities r
-  - Project scope r
-  - Enterprise service bus e
-  - Service-oriented architecture r
-  - Microservices r
-  - Process choreography e
-  - Service orchestration e
-  - Data warehouse e
-  - Business Intelligence e
-  - OLAP e
-  - OLTP e
-  - Conways Law e
-  - Quality assurance r
-  - Engineering Hygiene r
+  - Integration with subsystems: 🔬 researched
+  - Enterprise vision: 🔬 researched
+  - Enterprise capabilities: 🔬 researched
+  - Project scope: 🔬 researched
+  - Enterprise service bus: 🙋 explained
+  - Service-oriented architecture: 🔬 researched
+  - Microservices: 🔬 researched
+  - Process choreography: 🙋 explained
+  - Service orchestration: 🙋 explained
+  - Data warehouse: 🙋 explained
+  - Business Intelligence: 🙋 explained
+  - OLAP: 🙋 explained
+  - OLTP: 🙋 explained
+  - Conways Law: 🙋 explained
+  - Quality assurance: 🔬 researched
+  - Engineering Hygiene: 🔬 researched
